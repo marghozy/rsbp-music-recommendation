@@ -1,0 +1,68 @@
+[
+  {
+    "case_id": "case_1",
+    "context": {
+      "activity": "workout",
+      "mood": "happy",
+      "time_of_day": "morning"
+    },
+    "features": [
+      0.9,
+      0.7,
+      0.8,
+      0.3,
+      0.75
+    ],
+    "recommended": [
+      {
+        "track_name": "Brave"
+      },
+      {
+        "track_name": "Curbside Prophet"
+      },
+      {
+        "track_name": "Tamacun"
+      },
+      {
+        "track_name": "Tell The World"
+      },
+      {
+        "track_name": "Koi"
+      }
+    ],
+    "feedback": 5.0
+  },
+  {
+    "case_id": "case_2",
+    "context": {
+      "activity": "study",
+      "mood": "sad",
+      "time_of_day": "morning"
+    },
+    "features": [
+      0.9,
+      0.7,
+      0.8,
+      0.3,
+      0.75
+    ],
+    "recommended": [
+      {
+        "track_name": "Ghost - Acoustic"
+      },
+      {
+        "track_name": "Can't Help Falling In Love"
+      },
+      {
+        "track_name": "Say Something"
+      },
+      {
+        "track_name": "Bad Liar"
+      },
+      {
+        "track_name": "Photograph"
+      }
+    ],
+    "feedback": 5.0
+  }
+]
